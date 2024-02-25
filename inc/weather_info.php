@@ -5,7 +5,7 @@
 
     <div class="d-flex align-items-center">
 
-        <!-- icon -->
+        <!-- iconcu -->
         <div class="me-5 text-center">
             <img src="<?= $weather_info['condition_icon'] ?>" class="img-fluid d-block">
         </div>
